@@ -1,0 +1,1 @@
+copy all map files (pgm and yaml) in this folder
