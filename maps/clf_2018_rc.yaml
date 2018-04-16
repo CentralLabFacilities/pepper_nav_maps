@@ -1,6 +1,6 @@
-image: clf_2018_rc.pgm
+image: clf_2018_rc_flipped.pgm
 resolution: 0.050000
-origin: [-15.000000, -26.200000, 0.000000]
+origin: [0.000000, 0.000000, 0.000000]
 negate: 0
 occupied_thresh: 0.65
 free_thresh: 0.196
