@@ -1,4 +1,4 @@
-image: clf_2018_rc_flipped.pgm
+image: clf_2018_rc.pgm
 resolution: 0.050000
 origin: [0.000000, 0.000000, 0.000000]
 negate: 0
